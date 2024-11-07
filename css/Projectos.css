@@ -64,3 +64,22 @@ h1{
     color:slateblue;
 
 }
+
+footer{
+    background-color: rgb(204, 204, 204);
+    box-shadow: 2px 2px 2px 6px black;
+    text-align: center;
+    padding: 15px;
+    height: 60px;
+}
+
+.ro{
+    display: flex;
+}
+.lin{
+    margin: 0 auto;
+}
+.lin img{
+    width: 40px;
+    height: 40px;
+}

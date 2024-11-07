@@ -1,0 +1,22 @@
+
+table th{
+    background-color: black;
+    font-size: 18px;
+    width: 25vh;
+    color: white;
+}
+table td{
+    background-color: rgb(128, 125, 125);
+    text-align: center;
+    width: 30vh;
+    height: 5vh;
+    color: white;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+ .lp{
+    background-color: white;
+}
